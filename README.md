@@ -8,3 +8,12 @@ Feel free to share this repository with your friends who may find it useful, and
 Thank you for your support, and I hope these solutions help you on your journey to becoming a better problem solver. Happy coding! 😄
 
 This repository contains a log of my GeeksForGeeks solutions, including problems from the weekly contests, monthly contests, and other challenges.
+
+<hr>
+
+You can access my solutions below:
+
+- [x] [Missing number in array](https://github.com/AnujPotdar2002/GeeksForGeeks_Solutions/blob/main/Solutions/MissingNumberInArray.cpp)
+
+If you have any issues or suggestions for improving this repository, please open an issue.
+
